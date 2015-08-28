@@ -1,0 +1,6 @@
+baza - ukrop
+
+root
+
+
+ukrop_admin - Kon1_ukrop
